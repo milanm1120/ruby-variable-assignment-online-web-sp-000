@@ -37,4 +37,4 @@ def change_my_name
   name.reverse
 end
 
-puts change_my_name
+change_my_name
