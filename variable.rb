@@ -29,3 +29,5 @@ def restaurant
   puts cuisine = "American"
   puts motto = "Welcome to flavor town!"
 end
+
+restaurant
