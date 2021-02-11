@@ -23,4 +23,3 @@ def intro_with_a_language(name = "Bill", language = "Python")
 end
 
 intro_with_a_language("Milan", "Ruby")
-intro_with_a_language("Ruby")
