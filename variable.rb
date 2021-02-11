@@ -43,4 +43,4 @@ def print_one_plus_one
   puts 1+1
 end
 
-puts print_one_plus_one
+print_one_plus_one
