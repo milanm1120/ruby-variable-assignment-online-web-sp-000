@@ -44,4 +44,4 @@ def addition
   new_total = total +17
 end
 
-addition
+puts addition
