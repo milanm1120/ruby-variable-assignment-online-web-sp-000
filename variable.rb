@@ -23,3 +23,11 @@ def intro_with_a_language(name = "Bill", language = "Python")
 end
 
 intro_with_a_language("Milan", "Ruby")
+
+def restaurant
+  restaurant_name = "Guy's AMerican Kitchen"
+  cuisine = "American"
+  motto = "Welcome to flavor town!"
+end
+
+puts restaurant
