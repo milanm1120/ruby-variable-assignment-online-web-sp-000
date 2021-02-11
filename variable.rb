@@ -30,4 +30,4 @@ def restaurant
    motto = "Welcome to flavor town!"
 end
 
-restaurant
+puts restaurant
