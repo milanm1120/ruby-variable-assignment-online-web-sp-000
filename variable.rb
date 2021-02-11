@@ -25,9 +25,7 @@ end
 intro_with_a_language("Milan", "Ruby")
 
 def restaurant
-  restaurant_name = "Guy's AMerican Kitchen"
-  cuisine = "American"
-  motto = "Welcome to flavor town!"
+  puts restaurant_name = "Guy's AMerican Kitchen"
+  puts cuisine = "American"
+  puts motto = "Welcome to flavor town!"
 end
-
-puts restaurant
