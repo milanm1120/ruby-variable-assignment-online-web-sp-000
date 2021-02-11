@@ -34,7 +34,7 @@ puts restaurant
 
 def change_my_name
   name = "Frank"
-  name.reverse
+  puts name.reverse
 end
 
 change_my_name
