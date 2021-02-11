@@ -40,7 +40,7 @@ end
 change_my_name
 
 def addition
-  total = 6 + 3
+  puts total = 6 + 3
   new_total = total +17
 end
 
