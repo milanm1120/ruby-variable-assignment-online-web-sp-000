@@ -18,8 +18,9 @@ end
 
 Introduction("Milan")
 
-def intro_with_a_language(name, language)
+def intro_with_a_language(name, language = "Python")
   puts "Hi my name is #{name}, and I am learning to program in #{language}."
 end
 
 intro_with_a_language("Milan", "Ruby")
+intro_with_a_language("Milan")
