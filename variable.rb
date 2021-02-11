@@ -31,3 +31,10 @@ def restaurant
 end
 
 puts restaurant
+
+def change_my_name
+  name = "Frank"
+  puts name.reverse
+end
+
+change_my_name
