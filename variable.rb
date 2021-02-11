@@ -42,3 +42,5 @@ change_my_name
 def addition
   puts total = 6 + 3
 end
+
+total + 9
