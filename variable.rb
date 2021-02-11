@@ -39,8 +39,6 @@ end
 
 change_my_name
 
-def print_one_plus_one
-  puts 1+1
+def addition
+  puts total = 6 + 3
 end
-
-print_one_plus_one
