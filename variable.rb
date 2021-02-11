@@ -38,3 +38,7 @@ def change_my_name
 end
 
 change_my_name
+
+def print_one_plus_one
+  puts 1+1
+end
