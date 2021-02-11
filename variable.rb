@@ -44,3 +44,5 @@ def addition
   total +17
   puts total
 end
+
+total
