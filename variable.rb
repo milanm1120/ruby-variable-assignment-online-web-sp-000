@@ -43,4 +43,4 @@ def addition
   puts total = 6 + 3
 end
 
-total + 9
+addition + 9
